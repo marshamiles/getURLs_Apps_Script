@@ -1,2 +1,2 @@
 # getURLs_Apps_Script
-A Google Apps Script that generates a list of download URLs to copy to the batch upload Excel spreadsheet for bepress Digital Commons.
+Instead of copying individual share links for items to be batch uploaded to bepress Digital Commons, the getURLs Apps Script can be used to generate a list of URLs to copy to the batch upload Excel spreadsheet. All that is needed is a folder in Google Drive to hold the files to be uploaded and a Google sheet to bind the script to. Please note: a filename field is necessary to be able to sort the batch upload Excel spreadsheet to match the fulltext URL Google sheet. Documentation for using the script can be found in the Additional Files section at https://engagedscholarship.csuohio.edu/msl_facpub/105/
